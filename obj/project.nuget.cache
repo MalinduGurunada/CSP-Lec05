@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "id6Ydx38mds=",
+  "dgSpecHash": "bJg5dwhyga4=",
   "success": true,
-  "projectFilePath": "D:\\CSP Lec 5\\backend-app standlone\\BackendApp\\BackendApp.csproj",
+  "projectFilePath": "D:\\CSP Lec 5\\CSP-Lec05\\BackendApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\malin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\malin\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.3\\microsoft.entityframeworkcore.10.0.3.nupkg.sha512",

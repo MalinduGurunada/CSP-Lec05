@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSP Lec 5\\backend-app standlone\\BackendApp\\BackendApp.csproj": {}
+    "D:\\CSP Lec 5\\CSP-Lec05\\BackendApp.csproj": {}
   },
   "projects": {
-    "D:\\CSP Lec 5\\backend-app standlone\\BackendApp\\BackendApp.csproj": {
+    "D:\\CSP Lec 5\\CSP-Lec05\\BackendApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSP Lec 5\\backend-app standlone\\BackendApp\\BackendApp.csproj",
+        "projectUniqueName": "D:\\CSP Lec 5\\CSP-Lec05\\BackendApp.csproj",
         "projectName": "BackendApp",
-        "projectPath": "D:\\CSP Lec 5\\backend-app standlone\\BackendApp\\BackendApp.csproj",
+        "projectPath": "D:\\CSP Lec 5\\CSP-Lec05\\BackendApp.csproj",
         "packagesPath": "C:\\Users\\malin\\.nuget\\packages\\",
-        "outputPath": "D:\\CSP Lec 5\\backend-app standlone\\BackendApp\\obj\\",
+        "outputPath": "D:\\CSP Lec 5\\CSP-Lec05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
